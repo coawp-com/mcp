@@ -38,6 +38,8 @@ gemini mcp add --transport http coawp https://coawp.com/mcp
 code --add-mcp '{"name":"coawp","type":"http","url":"https://coawp.com/mcp"}'
 ```
 
+**Cline**: in the MCP Servers panel, open Remote Servers, paste the address and choose Streamable HTTP. [llms-install.md](llms-install.md) has the config file version.
+
 **Cursor, Windsurf and other apps**: add it to the app's MCP config file.
 
 ```json
