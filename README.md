@@ -1,6 +1,6 @@
 # coawp MCP server
 
-Search open internships, co-ops and student jobs from your AI assistant. The roles come from employers' own job boards, mostly in Canada, and are the same ones listed on [coawp.com](https://coawp.com), refreshed every 2 hours.
+Search open internships, co-ops and student jobs from your AI assistant. The roles come from employers' own job boards and are the same ones listed on [coawp.com](https://coawp.com), refreshed every 2 hours.
 
 ```
 https://coawp.com/mcp
