@@ -72,7 +72,7 @@ Two prompts start common searches: `find_roles` (from what someone studies and w
 
 ## What's recorded
 
-coawp counts how the server is used with its own analytics (Wool): which tool was called, the search words, place and skills it was given (cut to 100 characters), how many roles came back, the assistant app's name and the request's country. The request's IP address and user agent are used to count distinct visitors. There are no accounts. Cloudflare, which runs the server, keeps short-lived request logs.
+coawp counts how the server is used with its own analytics (Wool): which tool was called, the search words, place and skills it was given (cut to 100 characters), how many roles came back, the assistant app's name and the request's country. The request's IP address and user agent are used to count distinct visitors. There are no accounts. Cloudflare, which runs the server, keeps short-lived request logs. The full policy is at [coawp.com/privacy](https://coawp.com/privacy).
 
 ## Help
 
